@@ -6,7 +6,7 @@ import acm.program.ConsoleProgram;
  * B-tree Structure is being used.
  * 
  * @author Abdelrahman Ali
- * McGill Id #260903307
+ * McGill Id #XXXXXXXX
  * This is part of assignment 2 for McGill ECSE 202 winter 2021.
  * 
  */
