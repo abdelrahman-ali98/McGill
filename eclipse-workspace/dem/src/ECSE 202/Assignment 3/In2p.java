@@ -5,7 +5,7 @@ import acm.program.ConsoleProgram;
  * Infix to postFix
  * 
  * @author Abdelrahman Ali
- * McGill Id #260903307
+ * McGill Id #XXXXXXX
  * This is part of assignment 3 for McGill ECSE 202 winter 2021.
  *
  */
