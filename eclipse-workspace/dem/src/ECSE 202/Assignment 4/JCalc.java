@@ -7,7 +7,7 @@ import acm.program.ConsoleProgram;
  * of the postFix expression.
  * 
  * @author Abdelrahman Ali
- * McGill Id #260903307
+ * McGill Id #XXXXXXX
  * This is part of assignment 4 for McGill ECSE 202 winter 2021.
  *
  */
