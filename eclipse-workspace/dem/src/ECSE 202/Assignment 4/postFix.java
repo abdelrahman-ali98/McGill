@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
  * InFix input and return the PostFix as a Queue.
  * 
  * @author Abdelrahman Ali
- * McGill Id #260903307
+ * McGill Id #XXXXXXXX
  * This is part of assignment 3&4 for McGill ECSE 202 winter 2021.
  *
  */
